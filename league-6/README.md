@@ -15,13 +15,14 @@
 | 01 | Настройка окружения — Cursor, AI-инструменты |
 | 02 | Базовый Linux — cd, ls, mkdir, права, процессы |
 | 03 | Git — commit, push, pull, branch, merge, PR |
-| 04 | Горутины, data race |
-| 05 | Память — heap vs stack, процессы, потоки |
+| 04 | memory |
+| 05 | go base |
+| 06 | go concurrency |
 | 06 | Сети — базово |
 | 07 | HTTP — методы, статусы, request/response, JSON в Go |
 | 08 | Postman — тестирование запросов |
-| 09 | Переменные окружения, конфиги, Makefile |
-| 10 | Логирование |
+| 09 | Логирование |
+| 10 | Переменные окружения, конфиги, Makefile |
 
 **Часть 2 — Backend на практике**
 
