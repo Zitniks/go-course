@@ -4,6 +4,8 @@
 
 Аналог: [onetimesecret.com](https://onetimesecret.com)
 
+Видео:  https://drive.google.com/file/d/16f_EcbWnqIews8ymTeeTOgU1tL8WPGSP/view?usp=sharing
+
 ---
 
 ## Эндпоинты
